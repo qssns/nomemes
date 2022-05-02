@@ -1,0 +1,20 @@
+{
+    "name": "No memes?",
+    "description": "Redirects you to a random meme/shitpost.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "storage",
+        "tabs",
+        "scripting"
+    ],
+    "action": {
+        "default_popup": "/src/html/popup.html",
+        "default_icon": {
+            "16": "src/images/logo16.png",
+            "32": "src/images/logo32.png",
+            "48": "src/images/logo48.png",
+            "128": "src/images/logo128.png"
+        }
+    }
+}
