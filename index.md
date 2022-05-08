@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## No memes?
 
-You can use the [editor on GitHub](https://github.com/qssns/nomemes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![JimiJS](https://jimijs.pl/media/madebyjimijs.png)](https://jimijs.pl/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Whats that?
+`No memes?` is a simple Chrome Extension that redirects to a random shitpost/meme.
 
-### Markdown
+## How does that work?
+`No memes?` is using `Meme API` which docs u can see [here](https://docs.jimijs.pl/memeapi/get-a-random-meme-api).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What browser is it supporting?
+For this time, only `Chrome` and `Chromium based` browsers  like `Opera`.
 
-```markdown
-Syntax highlighted code block
+## How to install?
+1. Go to [chrome://extensions/](chrome://extensions/)
+2. Toggle `Developer mode`
+3. Click `Load unpacked extension`
+4. Navigate to the extension’s folder and click OK
+5. You can now delete the extension's folder, it should've been copied.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qssns/nomemes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+`This only works for chrome ^ More web browsers will be supported soon`
